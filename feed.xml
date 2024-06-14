@@ -6,7 +6,7 @@
     <link>http://</link>
     <description>Website made with Nidavel</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 May 2024 23:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 15:49:22 +0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>https://nidavel.com</generator>
@@ -18,15 +18,24 @@
       <height>124</height>
     </image>
     <item>
-      <title>Testing the shortcode functionality</title>
+      <title>Testing github auto push</title>
+      <pubDate>Fri, 14 Jun 2024 15:49:17 +0000</pubDate>
+      <dc:creator><![CDATA[Nidavel]]></dc:creator>
+      <link>http:///posts/testing-github-auto-push.html</link>
+      <description><![CDATA[Testing github auto push]]></description>
+      <category><![CDATA[post]]></category>
+      <comments>https://comments.nidavel.com//3</comments>
+      <slash:comments>0</slash:comments>
+      <guid>http:///posts/testing-github-auto-push.html/</guid>
+      <title>Testing the clear orphaned categories</title>
       <pubDate>Tue, 28 May 2024 12:11:05 +0000</pubDate>
       <dc:creator><![CDATA[Nidavel]]></dc:creator>
-      <link>http:///shortcode/testing-shortcode-functionality.html</link>
+      <link>http:///shortcode/testing-clear-orphaned-categories.html</link>
       <description><![CDATA[Testing the shortcode functionality]]></description>
       <category><![CDATA[shortcode]]></category>
       <comments>https://comments.nidavel.com//2</comments>
       <slash:comments>0</slash:comments>
-      <guid>http:///shortcode/testing-shortcode-functionality.html/</guid>
+      <guid>http:///shortcode/testing-clear-orphaned-categories.html/</guid>
       <title>Testing out the post head open graph</title>
       <pubDate>Tue, 23 Apr 2024 10:53:28 +0000</pubDate>
       <dc:creator><![CDATA[Nidavel]]></dc:creator>
